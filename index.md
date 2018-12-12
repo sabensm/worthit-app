@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Worth It?
 
-You can use the [editor on GitHub](https://github.com/sabensm/worthit-app/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+When doing work we often wonder if the time we're spending is "worth it" for the outcome at the end. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Worth It lets you compare the cost of your time against a host of common consumer products & services. 
 
-### Markdown
+Was the meeting you and fifteen of your collegues just had really worth 4 Apple Watches? How about the hour you spent finding just the right shade of blue for the exeutive presentation - was that worth a year of Netflix? 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We think you'll be surprised just how much your time is worth! 
 
-```markdown
-Syntax highlighted code block
+### Privacy Policy
 
-# Header 1
-## Header 2
-### Header 3
+You can view our privacy policy [here](https://github.com/sabensm/worthit-app/blob/master/privacypolicy.md)
 
-- Bulleted
-- List
+### Contact Us
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sabensm/worthit-app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you're a github user, create an [issue](https://github.com/sabensm/worthit-app/issues). If you'd prefer to use e-mail, you can e-mail worthitapp@gmail.com 
