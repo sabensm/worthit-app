@@ -10,7 +10,7 @@ We think you'll be surprised just how much your time is worth!
 
 ### Privacy Policy
 
-You can view our privacy policy [here](https://github.com/sabensm/worthit-app/blob/master/privacypolicy.md)
+You can view our privacy policy [here](https://sabensm.github.io/worthit-app/privacypolicy.html)
 
 ### Contact Us
 
