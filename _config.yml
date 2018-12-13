@@ -5,4 +5,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - PrivacyPolicy.md
+  - privacypolicy.md
+  - index.md
