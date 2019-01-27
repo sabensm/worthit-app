@@ -35,7 +35,7 @@ By using our site or apps, you consent to our privacy policy.
 
 ### Contacting Us
 
-If you have questions regarding this privacy policy, you may email worthitapp@gmail.com
+If you have questions regarding this privacy policy, you may email info@slip3studios.com
 
 ### Changes to this policy
 
