@@ -1,4 +1,8 @@
-WorthIt uses 3rd party libraries for some functionality. The licenses for those are below
+### Resources
+
+#### Icons8
+
+All icons are sourced from https://www.icons8.com
 
 ### Third Party Libraries
 
